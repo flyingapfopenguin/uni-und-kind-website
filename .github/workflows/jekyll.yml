@@ -12,15 +12,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
-      name: Build the site in the jekyll/builder container
-      run: |
-        docker run \
-        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --destination dist --future"
-    - name: Upload a Build Artifact
-      uses: actions/upload-artifact@v3.0.0
+      - name: Build
+        uses: jerryjvl/jekyll-build-action@v1
+
+      - name: Upload a Build Artifact
+        uses: actions/upload-artifact@v3.0.0
         with:
           name: uni-und-kind-website
-          path: dist
+          path: |
+            ./*/*
+            !.*/*
           if-no-files-found: error
