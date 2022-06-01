@@ -12,12 +12,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Build
-        uses: jerryjvl/jekyll-build-action@v1
-
-      - name: Upload a Build Artifact
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: jekyll build
+        uses: mbursi/jekyll-build-only-action@v1.0.0
+      - name: save artifact
         uses: actions/upload-artifact@v3.0.0
         with:
           name: uni-und-kind-website
-          path: ./*/*
+          path: ./_site/*
           if-no-files-found: error
