@@ -19,7 +19,5 @@ jobs:
         uses: actions/upload-artifact@v3.0.0
         with:
           name: uni-und-kind-website
-          path: |
-            ./*/*
-            !.*/*
+          path: ./*/*
           if-no-files-found: error
