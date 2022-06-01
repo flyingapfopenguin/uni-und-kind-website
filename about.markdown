@@ -33,6 +33,11 @@ Er besteht aus vier gewählten Elternvertretern sowie jeweils einem Vertreter de
 Wichtige Aufgabenfelder sind Personalangelegenheiten, Finanzen und Öffentlichkeitsarbeit.
 
 Zur Zeit gehören dem Vorstand an:
++ Lennart Leicht (1. Vorsitzender)
++ Ole Lee (VertreterIn AStA der RWTH Aachen)
++ Vanessa Hastedt (Personalvorstand)
++ Robin Bernau (Finanzvorstand)
++ Charlotte Eichas-Gondorf (4. Vorsitzende)
 
 #### Rat der Einrichtung
 Hier treffen sich alle zwei Monate Vertreter des Teams, des Vorstands und der Eltern, um aktuelle Themen und zentrale Anliegen zu besprechen, die die Einrichtung betreffen.

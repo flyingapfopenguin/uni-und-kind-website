@@ -3,31 +3,33 @@ layout: page
 title: Impressum
 permalink: /imprint/
 ---
-Uni&Kind e.V.
+Uni und Kind e.V.
 
 Augustinerbach 2a
 
 52062 Aachen
 
-Telefon: 0241 – 80 97948
+**Tel. Gruppenraum**: 0241 – 80 979 47 _(erreichbar zur Betreuungszeit)_
 
-Telefon Gruppenraum: 0241 – 80 97947
+**Tel. Büro**: 0241 – 80 979 48
 
-Telefax: 0241 – 80 92520
+**Fax**: 0241 – 80 925 20
 
-E-Mail: vorstand@uni-und-kind.de
+**E-Mail**: vorstand@uni-und-kind.de
+
+**Web**: www.uni-und-kind.de
 
 
 Vertreten durch:
-+ Luisa Berger (Vorstandsvorsitzender)
-+ Lena Jansen (Personalvorstand)
-+ Elisabeth Charlotte Eichas-Gondorf (Finanzvorstand)
-+ Luis Felipe da Rosa Espath (Vorstandsmitglied)
-+ Ana Zhivkova (kooptiertes Mitglied aus dem AStA der RWTH Aachen University)
++ Lennart Leicht (1. Vorsitzender)
++ Ole Lee (VertreterIn AStA der RWTH Aachen)
++ Vanessa Hastedt (Personalvorstand)
++ Robin Bernau (Finanzvorstand)
++ Charlotte Eichas-Gondorf (4. Vorsitzende)
 
 Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV):
 
-Henning Hollermann
+Lennart Leicht
 
 Augustinerbach 2a
 

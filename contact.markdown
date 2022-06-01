@@ -5,16 +5,19 @@ permalink: /contact/
 ---
 
 **Uni und Kind e.V.**
+
 Augustinerbach 2a
 
 52062 Aachen
 
-Tel. Büro: 0241 – 80 979 48
+**Tel. Gruppenraum**: 0241 – 80 979 47 _(erreichbar zur Betreuungszeit)_
 
-Tel. Gruppenraum: 0241 – 80 979 47
+**Tel. Büro**: 0241 – 80 979 48
 
-Fax: 0241 – 80 925 20
+**Fax**: 0241 – 80 925 20
 
-E-Mail: leitung[at]uni-und-kind[punkt]de
+**E-Mail**: 
++ leitung@uni-und-kind.de
++ vorstand@uni-und-kind.de
 
-Web: www.uni-und-kind.de
+**Web**: www.uni-und-kind.de

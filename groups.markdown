@@ -4,13 +4,13 @@ title: Gruppen
 permalink: /groups/
 ---
 
-Gruppeneinteilung in zwei festen Gruppen mit jeweils zehn Kindern und zwei ausgebildeten Erzieherinnen. 
-Die Arbeit wird zeitweise durch Ergänzungskräfte und Praktikantinnen unterstützt.
+Gruppeneinteilung in zwei festen Gruppen mit jeweils maximal zehn Kindern und ein bis zwei ausgebildeten Erzieher:innen. 
+Die Arbeit wird zeitweise durch Ergänzungskräfte und Praktikant:innen unterstützt.
 
 ![Logo unsere Mäuse-Gruppe](/assets/maus.png)
 **Mäuse-Gruppe**
 Montag bis Freitag: 08.00 – 13.00 Uhr
-(Kernzeit: 9:00 – 12:45 Uhr)
+(Kernzeit: 8:45 – 12:30 Uhr)
 
 ![Logo unsere Marienkäfer-Gruppe](/assets/marienkaefer.png)
 **Marienkäfer-Gruppe**
