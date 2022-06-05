@@ -32,6 +32,6 @@ Betreuungszeiten montags bis freitags, 14:00 – 18:00 Uhr
 5. Es wird eine Kaution für Elternarbeit in Höhe von 50,00€ erhoben. Diese wird bei Vertragsende ausgezahlt, sofern alle Elternstunden geleistet wurden. Andernfalls werden alle 6. nicht geleisteten Stunden mit einem Betrag von je 15 € in Rechnung gestellt und von der Kaution einbehalten.
 6. Kinder von Nicht-RWTH-Angehörigen können nach Absprache ebenfalls betreut werden.
 
-
+##### Fußnoten
 [^1]: Beide Elternteile Studenten oder Student(in) ist alleinerziehend
 [^2]: Mind. ein Elternteil ist Angestellte(r) der RWTH oder nur ein Elternteil ist Student der RWTH

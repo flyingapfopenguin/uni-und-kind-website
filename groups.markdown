@@ -7,12 +7,12 @@ permalink: /groups/
 Gruppeneinteilung in zwei festen Gruppen mit jeweils maximal zehn Kindern und ein bis zwei ausgebildeten Erzieher:innen. 
 Die Arbeit wird zeitweise durch Ergänzungskräfte und Praktikant:innen unterstützt.
 
-![Logo unsere Mäuse-Gruppe](assets/maus.png)
+![Logo unsere Mäuse-Gruppe]({{ 'assets/maus.png' | relative_url }})
 **Mäuse-Gruppe**
 Montag bis Freitag: 08.00 – 13.00 Uhr
 (Kernzeit: 8:45 – 12:30 Uhr)
 
-![Logo unsere Marienkäfer-Gruppe](assets/marienkaefer.png)
+![Logo unsere Marienkäfer-Gruppe]({{ 'assets/marienkaefer.png' | relative_url }})
 **Marienkäfer-Gruppe**
 Montag bis Freitag: 14.00 – 18.00 Uhr
 (Kernzeit: 15:00 – 17:45 Uhr)
