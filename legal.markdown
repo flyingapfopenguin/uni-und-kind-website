@@ -18,15 +18,6 @@ Augustinerbach 2a
 
 E-Mail-Adresse: vorstand@uni-und-kind.de
 
-### Datenschutzbeauftragte
-Lennart Leicht
-
-Augustinerbach 2a
-
-52062 Aachen
-
-vorstand@uni-und-kind.de
-
 ### Datenarten, Zwecke der Verarbeitung und Kategorien betroffener Personen
 Nachfolgend informieren wir Sie über Art, Umfang und Zweck der Erhebung, Verarbeitung und Nutzung personenbezogener Daten.
 
