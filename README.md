@@ -11,6 +11,7 @@ IntelliJ can be install [manually](https://www.jetbrains.com/de-de/idea/) or via
 
 ### Install Jekyll
 To install jekyll I suggest following the [jekyll installation instructions](https://jekyllrb.com/docs/installation/).
+**Remark:** Ruby+Devkit means you need with devkit version in the newest version
 
 ## Small Remarks
 
