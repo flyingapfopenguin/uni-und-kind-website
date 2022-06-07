@@ -10,7 +10,7 @@ Diese Datenschutzerklärung gilt auch für unsere Websites und Sozial-Media-Prof
 ### Name und Kontaktdaten des / der Verantwortlichen
 Unser/e Verantwortliche/r (nachfolgend „Verantwortlicher“) i.S.d. Art. 4 Zif. 7 DS-GVO ist:
 
-Lennart Leicht
+Vanessa Hastedt
 
 Augustinerbach 2a
 
