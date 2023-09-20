@@ -21,15 +21,15 @@ Augustinerbach 2a
 
 
 Vertreten durch:
-+ Lennart Leicht (1. Vorsitzender)
++ Christina Laut-Berger (1. Vorsitzender)
 + Ole Lee (VertreterIn AStA der RWTH Aachen)
-+ Vanessa Hastedt (Personalvorstand)
-+ Robin Bernau (Finanzvorstand)
-+ Charlotte Eichas-Gondorf (4. Vorsitzende)
++ Olena Shapovalova (Personalvorstand)
++ Nicolao Carl (Finanzvorstand)
++ Hendrik Schütte (4. Vorsitzende)
 
 Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV):
 
-Lennart Leicht
+Christina Laut-Berger
 
 Augustinerbach 2a
 
