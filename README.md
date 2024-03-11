@@ -1,4 +1,4 @@
-# uni-und-kind-v2
+# Webseite Uni & Kind e.V.
 This Project maintains the codebase for [Uni und Kind e.V. Website](http://www.uni-und-kind.rwth-aachen.de).
 The content is written in [Markdown](https://de.wikipedia.org/wiki/Markdown), an easy text formatting syntax.
 A good overview and cheet sheet is [this](https://www.markdownguide.org/cheat-sheet) one from Markdown Guide.
@@ -9,9 +9,24 @@ To edit markdown easily we can use IntelliJ Idea or Visual Studio Code.
 ### Install IntelliJ
 IntelliJ can be install [manually](https://www.jetbrains.com/de-de/idea/) or via [Chocolatey](https://community.chocolatey.org/packages?q=intellij):
 
-### Install Jekyll
+### Install Jekyll manually
 To install jekyll I suggest following the [jekyll installation instructions](https://jekyllrb.com/docs/installation/).
 **Remark:** Ruby+Devkit means you need with devkit version in the newest version
+
+### Install Jekyll via Docker
+To build a Docker image via the provided Dockerfile use
+```bash
+podman build --tag jekyll:latest docker
+```
+
+Using the build image you can serve the website via
+```bash
+podman run -p 4000:4000 -v .:/var/srv -it jekyll:latest
+```
+and build the website via
+```bash
+podman run  -v .:/var/srv -it jekyll:latest /build.sh.
+```
 
 ## Small Remarks
 
