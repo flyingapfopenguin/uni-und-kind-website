@@ -21,15 +21,14 @@ Augustinerbach 2a
 
 
 Vertreten durch:
-+ Christina Laut-Berger (1. Vorsitzender)
-+ Ole Lee (VertreterIn AStA der RWTH Aachen)
-+ Olena Shapovalova (Personalvorstand)
-+ Nicolao Carl (Finanzvorstand)
-+ Hendrik Schütte (4. Vorsitzende)
++ Alina Kormas (1. Vorsitzende)
++ Yvonne Fischer (Personalvorstand)
++ Florian Redder (Finanzvorstand)
++ Igor Rokhin (4. Vorsitzender)
 
 Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV):
 
-Christina Laut-Berger
+Alina Kormas
 
 Augustinerbach 2a
 
