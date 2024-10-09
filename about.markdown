@@ -33,7 +33,7 @@ Er besteht aus vier gewählten Elternvertretern sowie jeweils einem Vertreter de
 Wichtige Aufgabenfelder sind Personalangelegenheiten, Finanzen und Öffentlichkeitsarbeit.
 
 Zur Zeit gehören dem Vorstand an:
-+ Alina Kormas (1. Vorsitzende)
++ Alina Kornas (1. Vorsitzende)
 + Yvonne Fischer (Personalvorstand)
 + Florian Redder (Finanzvorstand)
 + Igor Rokhin (4. Vorsitzender)

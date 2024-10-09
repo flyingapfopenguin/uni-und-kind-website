@@ -21,14 +21,14 @@ Augustinerbach 2a
 
 
 Vertreten durch:
-+ Alina Kormas (1. Vorsitzende)
++ Alina Kornas (1. Vorsitzende)
 + Yvonne Fischer (Personalvorstand)
 + Florian Redder (Finanzvorstand)
 + Igor Rokhin (4. Vorsitzender)
 
 Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV):
 
-Alina Kormas
+Alina Kornas
 
 Augustinerbach 2a
 
