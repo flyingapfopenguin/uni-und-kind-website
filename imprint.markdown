@@ -21,14 +21,14 @@ Augustinerbach 2a
 
 
 Vertreten durch:
-+ Alina Kornas (1. Vorsitzende)
++ Lucas Wollenhaupt (1. Vorsitzender)
 + Yvonne Fischer (Personalvorstand)
-+ Florian Redder (Finanzvorstand)
++ Carl-Friedrich Benner (Finanzvorstand)
 + Igor Rokhin (4. Vorsitzender)
 
 Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV):
 
-Alina Kornas
+Lucas Wollenhaupt
 
 Augustinerbach 2a
 

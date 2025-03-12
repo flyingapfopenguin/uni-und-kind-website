@@ -33,9 +33,9 @@ Er besteht aus vier gewählten Elternvertretern sowie jeweils einem Vertreter de
 Wichtige Aufgabenfelder sind Personalangelegenheiten, Finanzen und Öffentlichkeitsarbeit.
 
 Zur Zeit gehören dem Vorstand an:
-+ Alina Kornas (1. Vorsitzende)
++ Lucas Wollenhaupt (1. Vorsitzender)
 + Yvonne Fischer (Personalvorstand)
-+ Florian Redder (Finanzvorstand)
++ Carl-Friedrich Benner (Finanzvorstand)
 + Igor Rokhin (4. Vorsitzender)
 
 #### Rat der Einrichtung
