@@ -14,18 +14,13 @@ To install jekyll I suggest following the [jekyll installation instructions](htt
 **Remark:** Ruby+Devkit means you need with devkit version in the newest version
 
 ### Install Jekyll via Docker
-To build a Docker image via the provided Dockerfile use
+We can use the [Jekyll-Docker-Setup](https://github.com/BretFisher/jekyll-serve) provided by [BretFischer](https://github.com/BretFisher) and serve the website via
 ```bash
-podman build --tag jekyll:latest docker
-```
-
-Using the build image you can serve the website via
-```bash
-podman run -p 4000:4000 -v .:/var/srv -it jekyll:latest
+podman run -p 4000:4000 -v .:/site bretfisher/jekyll-serve
 ```
 and build the website via
 ```bash
-podman run  -v .:/var/srv -it jekyll:latest /build.sh.
+podman run -v .:/site bretfisher/jekyll build
 ```
 
 ## Small Remarks
